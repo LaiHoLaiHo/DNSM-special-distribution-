@@ -1,5 +1,5 @@
 # DNSM-special-distribution
-1.the allfun.py is required since all the formula is inside
+1.the allfuc.py is required since all the formula is inside
 
 2. edit the ppar.py file to set parameters(including M1, M2, maxwellian dispersion, ...)
   
