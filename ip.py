@@ -2,6 +2,7 @@
 #generate initial position 
 #1111111111111111111111
 """generate position of samples"""
+#and it will out put the IRZ.csv for the initial position
 print("begin")
 import matplotlib
 matplotlib.use('Agg')
